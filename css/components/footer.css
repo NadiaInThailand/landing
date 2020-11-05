@@ -1,0 +1,20 @@
+.footer {
+  background-color: #2C2B2B;
+  width: 100%;
+  text-align: center;
+}
+
+.footer p {
+  color: #6B6C6C;
+  font-weight: normal;
+  padding-bottom: 20px;
+}
+
+.footer li {
+  display: inline-block;
+  list-style: none;
+  text-decoration: none;
+  text-align: center;
+  padding: 20px 0 10px 10px;
+  color: #1EDD88;
+}
